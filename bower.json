@@ -1,0 +1,20 @@
+{
+  "name": "chatdat",
+  "description": "chatdat",
+  "main": "",
+  "authors": [
+    "Hazal Beyazal <hazal.beyazal@solviads.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hazaloguce/chatdat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.8.3"
+  }
+}
